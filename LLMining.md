@@ -242,7 +242,7 @@ The question isn't whether AI has friction. It does. The question is: do you hav
 2. **Reading protocol** that forces complete context
 3. **Execution plan template** that catches wrong approaches before they compound
 
-I've packaged these into a free toolkit—[get it here](https://maven.com/p/5e851f/friction-prevention-toolkit).
+I've packaged these into a free toolkit—[get it here](https://maven.com/p/5e851f/friction-prevention-toolkit?utm_medium=lm_mining&utm_source=case_study).
 
 These address the symptoms—catching friction when it happens.
 
@@ -252,7 +252,7 @@ The patterns I documented—incomplete reading, assumptions without verification
 
 I ran an experiment recently in a live session to prove a point to the audience. A carefully crafted prompt with a big context dump produced mediocre output. A casual request with the right context (a decision log and an example of what "good" looks like) produced significantly better results. The prompt structure barely mattered. What mattered was whether the AI had the right information in the right format.
 
-The toolkit gives you the verification layer. Building the full system—the context architecture and the engagement patterns together—[that's what the course covers](https://maven.com/myles-sutholt/build-the-pm-copilot-that-makes-others-ask-how-did-you-do-that).
+The toolkit gives you the verification layer. Building the full system—the context architecture and the engagement patterns together—[that's what the course covers](https://maven.com/myles-sutholt/build-the-pm-copilot-that-makes-others-ask-how-did-you-do-that?utm_medium=lm_mining&utm_source=case_study).
 
 ---
 
@@ -260,7 +260,7 @@ The toolkit gives you the verification layer. Building the full system—the con
 
 I'm running this analysis again in March. Similar methodology, fresh and expanded data (I will try to get my hands on other people's data). I want to see if my friction rate drops—or if I just get better at catching it faster.
 
-If you want to see what I find, [sign up for updates](https://maven.com/myles-sutholt/build-the-pm-copilot-that-makes-others-ask-how-did-you-do-that)—that's where I'll share the results.
+If you want to see what I find, [sign up for updates](https://maven.com/p/de88da/llm-friction-analysis?utm_medium=lm_mining&utm_source=case_study)—that's where I'll share the results.
 
 ---
 
