@@ -87,7 +87,7 @@ And then Claude connected the dots. In real time, during the mining analysis, it
 
 An AI analyzing its own failure patterns. Exhibiting those exact patterns while doing the analysis. Catching itself.
 
-![The irony moment](../assets/irony-screenshot.png)
+<img width="544" height="59" alt="irony-screenshot" src="https://github.com/user-attachments/assets/f5d07844-02cb-48be-a89c-609da32c8d68" />
 
 ---
 
